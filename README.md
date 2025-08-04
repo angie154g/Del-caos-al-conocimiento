@@ -13,5 +13,10 @@ El proyecto se organiza en las siguientes carpetas:
 - **`/outputs`**: Archivos generados durante el análisis, como gráficos, tablas y modelos.
 - **`/reports`**: Informes generados a partir del análisis.
 
+## Análisis
+El análisis se enfoca en:
+- Filtrar las presas con un volumen de almacenamiento mayor a 500 millones de metros cúbicos.
+- Visualizar la distribución geográfica de las presas grandes por entidad.
+
 ## Fuentes de datos
 Los datos se obtienen de la [Comisión Nacional del Agua (CONAGUA)](https://datos.gob.mx) y el [Sistema Nacional de Información del Agua (SINIA)](https://www.gob.mx/conagua/documentos/sistema-nacional-de-informacion-del-agua-sinia).
